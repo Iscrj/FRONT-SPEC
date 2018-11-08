@@ -1,0 +1,17 @@
+{
+  "name": "front-spec",
+  "version": "1.0.0",
+  "description": "front document",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://kennyzuo:kenny513@git.recloud.cc:20443/kennyzuo/front-spec.git"
+  },
+  "author": "kennyzuo",
+  "license": "ISC"
+}
